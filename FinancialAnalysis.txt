@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+total months:86
+total profit: $38382578
+average446309.0465116279
+mindiff-2196167
+maxdiff1926159
